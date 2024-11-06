@@ -1,2 +1,2 @@
-# yuushya
+# Yuushya
 Yuushya Resource Pack
