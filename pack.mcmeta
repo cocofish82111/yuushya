@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 34,
     "description": "\u00A76Yuushya by 几何 \n\u00A76Special thanks to Xiao2 "
+  },
+  "fusion": {
+      "overrides_folder": "fusion"
   }
 }
