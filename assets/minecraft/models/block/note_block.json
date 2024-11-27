@@ -2,9 +2,9 @@
 	"credit": "Yuushya",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/note_block",
+		"0": "block/note_block_legacy",
 		"1": "block/noteblock",
-		"particle": "block/note_block"
+		"particle": "block/note_block_legacy"
 	},
 	"elements": [
 		{

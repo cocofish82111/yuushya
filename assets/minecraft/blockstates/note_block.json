@@ -1199,6 +1199,27 @@
     },	
 	"note=24,instrument=pling": {
       "model": "minecraft:block/note_block/pling/24"
+    },	
+	"instrument=skeleton": {
+      "model": "minecraft:block/note_block/skull/skeleton"
+    },	
+	"instrument=wither_skeleton": {
+      "model": "minecraft:block/note_block/skull/wither_skeleton"
+    },	
+	"instrument=custom_head": {
+      "model": "minecraft:block/note_block/skull/custom"
+    },	
+	"instrument=zombie": {
+      "model": "minecraft:block/note_block/skull/zombie"
+    },	
+	"instrument=creeper": {
+      "model": "minecraft:block/note_block/skull/creeper"
+    },	
+	"instrument=piglin": {
+      "model": "minecraft:block/note_block/skull/piglin"
+    },	
+	"instrument=dragon": {
+      "model": "minecraft:block/note_block/skull/dragon"
     }	
   }
 }
