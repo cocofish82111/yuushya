@@ -159,8 +159,13 @@
 			"translation": [-1.5, -2.25, 0],
 			"scale": [1, 1.1, 1.1]
 		},
+		"head": {
+			"rotation": [90, 0, 180],
+			"translation": [0, 7.25, -3]
+		},
 		"fixed": {
-			"translation": [0, 0, 1]
+			"translation": [0, 0, 1],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }

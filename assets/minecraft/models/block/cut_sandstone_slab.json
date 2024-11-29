@@ -1,4 +1,7 @@
 {
+  "loader":"fusion:model",
+  "type":"connecting",
+  "connections":[{"type":"is_same_block"}],
   "parent": "minecraft:block/slab",
   "textures": {
     "bottom": "minecraft:block/cut_sandstone",
