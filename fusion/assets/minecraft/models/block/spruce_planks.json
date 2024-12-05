@@ -1,4 +1,7 @@
 {
+	"loader":"fusion:model",
+	"type":"connecting",
+	"connections":[{"type":"is_same_block"}],
 	"parent": "block/cube_bottom_top",
 	"textures": {
 		"side": "block/spruce_planks_ctm",

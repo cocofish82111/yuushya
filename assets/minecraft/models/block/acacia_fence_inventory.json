@@ -2,9 +2,9 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "yuushya:block/acacia_fence",
-		"particle": "yuushya:block/acacia_door",
-		"texture": "yuushya:block/acacia_door"
+		"1": "block/acacia_fence",
+		"particle": "block/acacia_door",
+		"texture": "block/acacia_door"
 	},
 	"elements": [
 		{
