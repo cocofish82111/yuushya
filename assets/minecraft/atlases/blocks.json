@@ -7,7 +7,7 @@
         },
         {
             "type": "directory",
-            "source": "yuushya:block_",
+            "source": "block_",
             "prefix": "block_/"
         },
         {
