@@ -24,7 +24,7 @@
 			"name": "cake_top3_2",
 			"from": [11, 1, 2],
 			"to": [13, 9, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
+			
 			"faces": {
 				"north": {"uv": [5, 8, 6, 16], "texture": "#2"},
 				"east": {"uv": [5, 8, 6, 16], "texture": "#2"},
@@ -38,7 +38,7 @@
 			"name": "cake_top3_4",
 			"from": [13, 1, 3],
 			"to": [14, 9, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
+			
 			"faces": {
 				"north": {"uv": [5, 8, 6, 16], "texture": "#2"},
 				"east": {"uv": [5, 8, 6, 16], "texture": "#2"},
@@ -52,7 +52,7 @@
 			"name": "cake_top3_6",
 			"from": [14, 1, 5],
 			"to": [15, 9, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
+			
 			"faces": {
 				"north": {"uv": [5, 8, 6, 16], "texture": "#2"},
 				"east": {"uv": [5, 8, 11, 16], "texture": "#2"},
@@ -65,7 +65,7 @@
 		{
 			"from": [12, 9, 7],
 			"to": [14, 9.5, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [21, 17, 15]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 5, 4], "texture": "#1"},
 				"east": {"uv": [3, 3, 5, 4], "texture": "#1"},
@@ -78,7 +78,7 @@
 		{
 			"from": [11, 9, 11],
 			"to": [13, 9.5, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [20, 17, 19]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 5, 4], "texture": "#1"},
 				"east": {"uv": [3, 3, 5, 4], "texture": "#1"},
@@ -91,7 +91,7 @@
 		{
 			"from": [11, 9, 3],
 			"to": [13, 9.5, 5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [20, 17, 11]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 5, 4], "texture": "#1"},
 				"east": {"uv": [3, 3, 5, 4], "texture": "#1"},

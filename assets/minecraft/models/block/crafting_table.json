@@ -23,7 +23,7 @@
 			"name": "crafting_table_top_0",
 			"from": [0, 15, 0],
 			"to": [16, 16, 3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23, 8]},
+			
 			"faces": {
 				"north": {"uv": [16, 0, 0, 1], "texture": "#3", "cullface": "north"},
 				"east": {"uv": [15, 0, 16, 3], "rotation": 90, "texture": "#3", "cullface": "east"},
@@ -36,7 +36,7 @@
 			"name": "crafting_table_top_1",
 			"from": [0, 15, 3],
 			"to": [3, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23, 8]},
+			
 			"faces": {
 				"east": {"uv": [2, 3, 3, 16], "rotation": 90, "texture": "#2", "cullface": "up"},
 				"south": {"uv": [0, 15, 3, 16], "texture": "#3", "cullface": "south"},
@@ -48,7 +48,7 @@
 			"name": "crafting_table_top_2",
 			"from": [13, 15, 3],
 			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23, 8]},
+			
 			"faces": {
 				"east": {"uv": [15, 3, 16, 16], "rotation": 90, "texture": "#3", "cullface": "east"},
 				"south": {"uv": [13, 15, 16, 16], "texture": "#3", "cullface": "south"},
@@ -60,7 +60,7 @@
 			"name": "crafting_table_top_3",
 			"from": [3, 15, 13],
 			"to": [13, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23, 8]},
+			
 			"faces": {
 				"north": {"uv": [13, 13, 3, 14], "texture": "#2", "cullface": "up"},
 				"south": {"uv": [3, 15, 13, 16], "texture": "#3", "cullface": "south"},

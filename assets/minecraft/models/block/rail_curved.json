@@ -226,7 +226,7 @@
 			"name": "rail_corner_19",
 			"from": [11, 0, 13],
 			"to": [12, 2, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 10]},
+			
 			"faces": {
 				"north": {"uv": [16, 11, 15, 12], "texture": "#rail"},
 				"east": {"uv": [15, 11, 16, 14], "rotation": 90, "texture": "#rail"},

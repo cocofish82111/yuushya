@@ -10,7 +10,7 @@
 			"name": "iron_trapdoor_0",
 			"from": [0, -0.03922, 15.10981],
 			"to": [16, 2.96078, 16.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [15, 0, 16, 3], "rotation": 180, "texture": "#texture"},
@@ -24,7 +24,7 @@
 			"name": "iron_trapdoor_1",
 			"from": [0, 2.96078, 15.10981],
 			"to": [3, 15.96078, 16.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 3, 3, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [2, 3, 3, 16], "rotation": 180, "texture": "#texture"},
@@ -38,7 +38,7 @@
 			"name": "iron_trapdoor_2",
 			"from": [13, 2.96078, 15.10981],
 			"to": [16, 15.96078, 16.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [13, 3, 16, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [15, 3, 16, 16], "rotation": 180, "texture": "#texture"},
@@ -52,7 +52,7 @@
 			"name": "iron_trapdoor_3",
 			"from": [3, 12.96078, 15.10981],
 			"to": [13, 15.96078, 16.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 13, 13, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [12, 13, 13, 16], "rotation": 180, "texture": "#texture"},
@@ -66,7 +66,7 @@
 			"name": "iron_trapdoor_0",
 			"from": [0, -0.03922, 13.10981],
 			"to": [16, 2.96078, 14.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [15, 0, 16, 3], "rotation": 180, "texture": "#texture"},
@@ -80,7 +80,7 @@
 			"name": "iron_trapdoor_1",
 			"from": [0, 2.96078, 13.10981],
 			"to": [3, 15.96078, 14.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 3, 3, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [2, 3, 3, 16], "rotation": 180, "texture": "#texture"},
@@ -93,7 +93,7 @@
 		{
 			"from": [3, 2.96078, 14.60981],
 			"to": [13, 12.96078, 14.60981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 13, 13], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [0, 0, 10, 0], "rotation": 90, "texture": "#texture"},
@@ -163,7 +163,7 @@
 			"name": "iron_trapdoor_2",
 			"from": [13, 2.96078, 13.10981],
 			"to": [16, 15.96078, 14.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [13, 3, 16, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [15, 3, 16, 16], "rotation": 180, "texture": "#texture"},
@@ -177,7 +177,7 @@
 			"name": "iron_trapdoor_3",
 			"from": [3, 12.96078, 13.10981],
 			"to": [13, 15.96078, 14.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 13, 13, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [12, 13, 13, 16], "rotation": 180, "texture": "#texture"},
@@ -191,7 +191,7 @@
 			"name": "iron_trapdoor_0",
 			"from": [0, -0.03922, 14.10981],
 			"to": [16, 2.96078, 15.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [14, 0, 15, 3], "rotation": 180, "texture": "#texture"},
@@ -205,7 +205,7 @@
 			"name": "iron_trapdoor_1",
 			"from": [0, 2.96078, 14.10981],
 			"to": [3, 15.96078, 15.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 3, 3, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [2, 3, 3, 16], "rotation": 180, "texture": "#texture"},
@@ -219,7 +219,7 @@
 			"name": "iron_trapdoor_2",
 			"from": [13, 2.96078, 14.10981],
 			"to": [16, 15.96078, 15.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [13, 3, 16, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [14, 3, 15, 16], "rotation": 180, "texture": "#texture"},
@@ -233,7 +233,7 @@
 			"name": "iron_trapdoor_3",
 			"from": [3, 12.96078, 14.10981],
 			"to": [13, 15.96078, 15.10981],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.90963, 8.53529, 14.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 13, 13, 16], "rotation": 180, "texture": "#texture"},
 				"east": {"uv": [12, 13, 13, 16], "rotation": 180, "texture": "#texture"},

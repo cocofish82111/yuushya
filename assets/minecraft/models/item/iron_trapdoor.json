@@ -10,7 +10,7 @@
 			"name": "iron_trapdoor_0",
 			"from": [0, 0, 0],
 			"to": [16, 1, 3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [16, 0, 0, 1], "texture": "#1"},
 				"east": {"uv": [15, 0, 16, 3], "rotation": 90, "texture": "#1"},
@@ -24,7 +24,7 @@
 			"name": "iron_trapdoor_1",
 			"from": [0, 0, 3],
 			"to": [3, 1, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 0, 4], "texture": "#1"},
 				"east": {"uv": [2, 3, 3, 16], "rotation": 90, "texture": "#1"},
@@ -38,7 +38,7 @@
 			"name": "iron_trapdoor_2",
 			"from": [13, 0, 3],
 			"to": [16, 1, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [16, 3, 13, 4], "texture": "#1"},
 				"east": {"uv": [15, 3, 16, 16], "rotation": 90, "texture": "#1"},
@@ -52,7 +52,7 @@
 			"name": "iron_trapdoor_3",
 			"from": [3, 0, 13],
 			"to": [13, 1, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [13, 13, 3, 14], "texture": "#1"},
 				"east": {"uv": [12, 13, 13, 16], "rotation": 90, "texture": "#1"},
@@ -66,7 +66,7 @@
 			"name": "iron_trapdoor_0",
 			"from": [0, 2, 0],
 			"to": [16, 3, 3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [16, 0, 0, 1], "texture": "#1"},
 				"east": {"uv": [15, 0, 16, 3], "rotation": 90, "texture": "#1"},
@@ -80,7 +80,7 @@
 			"name": "iron_trapdoor_1",
 			"from": [0, 2, 3],
 			"to": [3, 3, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 0, 4], "texture": "#1"},
 				"east": {"uv": [2, 3, 3, 16], "rotation": 90, "texture": "#1"},
@@ -93,7 +93,7 @@
 		{
 			"from": [3, 1.5, 3],
 			"to": [13, 1.5, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [0, 0, 10, 0], "texture": "#1"},
 				"east": {"uv": [0, 0, 10, 0], "texture": "#1"},
@@ -163,7 +163,7 @@
 			"name": "iron_trapdoor_2",
 			"from": [13, 2, 3],
 			"to": [16, 3, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [16, 3, 13, 4], "texture": "#1"},
 				"east": {"uv": [15, 3, 16, 16], "rotation": 90, "texture": "#1"},
@@ -177,7 +177,7 @@
 			"name": "iron_trapdoor_3",
 			"from": [3, 2, 13],
 			"to": [13, 3, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [13, 13, 3, 14], "texture": "#1"},
 				"east": {"uv": [12, 13, 13, 16], "rotation": 90, "texture": "#1"},
@@ -191,7 +191,7 @@
 			"name": "iron_trapdoor_0",
 			"from": [0, 1, 0],
 			"to": [16, 2, 3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [16, 1, 0, 2], "texture": "#1"},
 				"east": {"uv": [14, 0, 15, 3], "rotation": 90, "texture": "#1"},
@@ -205,7 +205,7 @@
 			"name": "iron_trapdoor_1",
 			"from": [0, 1, 3],
 			"to": [3, 2, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [3, 3, 0, 4], "texture": "#1"},
 				"east": {"uv": [2, 3, 3, 16], "rotation": 90, "texture": "#1"},
@@ -219,7 +219,7 @@
 			"name": "iron_trapdoor_2",
 			"from": [13, 1, 3],
 			"to": [16, 2, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [16, 3, 13, 4], "texture": "#1"},
 				"east": {"uv": [14, 3, 15, 16], "rotation": 90, "texture": "#1"},
@@ -233,7 +233,7 @@
 			"name": "iron_trapdoor_3",
 			"from": [3, 1, 13],
 			"to": [13, 2, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.90963, 1.53529, 8.57451]},
+			
 			"faces": {
 				"north": {"uv": [13, 13, 3, 14], "texture": "#1"},
 				"east": {"uv": [12, 13, 13, 16], "rotation": 90, "texture": "#1"},

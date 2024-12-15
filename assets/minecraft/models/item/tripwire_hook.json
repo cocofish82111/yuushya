@@ -67,7 +67,7 @@
 		{
 			"from": [6, 1, 14],
 			"to": [10, 9, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [6, 7, 10, 15], "texture": "#wood"},
 				"east": {"uv": [14, 7, 16, 15], "texture": "#wood"},

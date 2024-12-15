@@ -11,7 +11,7 @@
 		{
 			"from": [0, 10, 0],
 			"to": [16, 11, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [0, 5, 16, 6], "texture": "#side", "cullface": "north"},
 				"east": {"uv": [0, 5, 16, 6], "texture": "#side", "cullface": "east"},
@@ -24,7 +24,7 @@
 		{
 			"from": [0, 11, 0],
 			"to": [2, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [14, 0, 16, 5], "texture": "#side", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 5], "texture": "#side", "cullface": "up"},
@@ -36,7 +36,7 @@
 		{
 			"from": [14, 11, 0],
 			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [0, 0, 2, 5], "texture": "#side", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 5], "texture": "#side", "cullface": "east"},
@@ -48,7 +48,7 @@
 		{
 			"from": [2, 11, 0],
 			"to": [14, 16, 2],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [2, 0, 14, 5], "texture": "#side", "cullface": "north"},
 				"south": {"uv": [2, 0, 14, 5], "texture": "#side", "cullface": "up"},
@@ -58,7 +58,7 @@
 		{
 			"from": [2, 11, 14],
 			"to": [14, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [2, 0, 14, 5], "texture": "#side", "cullface": "up"},
 				"south": {"uv": [2, 0, 14, 5], "texture": "#side", "cullface": "south"},
@@ -68,7 +68,7 @@
 		{
 			"from": [4, 4, 4],
 			"to": [12, 10, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [4, 6, 12, 12], "texture": "#side"},
 				"east": {"uv": [4, 6, 12, 12], "texture": "#side"},
@@ -80,7 +80,7 @@
 		{
 			"from": [6, 0, 6],
 			"to": [10, 4, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			
 			"faces": {
 				"north": {"uv": [6, 12, 10, 16], "texture": "#side"},
 				"east": {"uv": [6, 12, 10, 16], "texture": "#side"},

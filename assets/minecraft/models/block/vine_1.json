@@ -32,7 +32,7 @@
 			"from": [0, -16, 15],
 			"to": [16, 0, 15],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 15]},
+			
 			"faces": {
 				"north": {"uv": [16, 0, 0, 16], "texture": "#2", "cullface": "down", "tintindex": 0},
 				"east": {"uv": [0, 0, 0, 16], "texture": "#2"},

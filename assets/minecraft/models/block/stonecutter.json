@@ -32,7 +32,7 @@
 			"name": "stonecutter_saw_0",
 			"from": [7, 9, 7],
 			"to": [9, 17, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [7, 9, 9, 1], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [8, 1, 9, 9], "texture": "#saw"},
@@ -46,7 +46,7 @@
 			"name": "stonecutter_saw_1",
 			"from": [9, 9, 7],
 			"to": [10, 16, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [9, 9, 10, 2], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [9, 2, 10, 9], "texture": "#saw"},
@@ -60,7 +60,7 @@
 			"name": "stonecutter_saw_2",
 			"from": [3, 14, 7],
 			"to": [7, 15, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [3, 4, 7, 3], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [6, 3, 7, 4], "texture": "#saw"},
@@ -74,7 +74,7 @@
 			"name": "stonecutter_saw_3",
 			"from": [12, 9, 7],
 			"to": [13, 15, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [12, 9, 13, 3], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [12, 3, 13, 9], "texture": "#saw"},
@@ -88,7 +88,7 @@
 			"name": "stonecutter_saw_4",
 			"from": [4, 9, 7],
 			"to": [7, 14, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [4, 9, 7, 4], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [6, 4, 7, 9], "texture": "#saw"},
@@ -102,7 +102,7 @@
 			"name": "stonecutter_saw_5",
 			"from": [10, 9, 7],
 			"to": [12, 14, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [10, 9, 12, 4], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [11, 4, 12, 9], "texture": "#saw"},
@@ -116,7 +116,7 @@
 			"name": "stonecutter_saw_6",
 			"from": [2, 9, 7],
 			"to": [4, 12, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [2, 9, 4, 6], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [3, 6, 4, 9], "texture": "#saw"},
@@ -130,7 +130,7 @@
 			"name": "stonecutter_saw_7",
 			"from": [1, 9, 7],
 			"to": [2, 11, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [1, 9, 2, 7], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [1, 7, 2, 9], "texture": "#saw"},
@@ -144,7 +144,7 @@
 			"name": "stonecutter_saw_8",
 			"from": [13, 9, 7],
 			"to": [15, 11, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, 18, 7]},
+			
 			"faces": {
 				"north": {"uv": [13, 9, 15, 7], "rotation": 180, "texture": "#saw"},
 				"east": {"uv": [14, 7, 15, 9], "texture": "#saw"},
