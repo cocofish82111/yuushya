@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "yuushya:block/dead_bush_potted",
-		"1": "yuushya:block/dark_oak_log_top",
-		"particle": "yuushya:block/dead_bush_potted"
+		"0": "block/dead_bush_potted",
+		"1": "block/dark_oak_log_top",
+		"particle": "block/dead_bush_potted"
 	},
 	"elements": [
 		{

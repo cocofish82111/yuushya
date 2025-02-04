@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "yuushya:block/potted_mushroom",
-		"1": "yuushya:block/crop/poppy",
-		"particle": "yuushya:block/potted_mushroom"
+		"0": "block/potted_mushroom",
+		"1": "block/crop/poppy",
+		"particle": "block/potted_mushroom"
 	},
 	"elements": [
 		{

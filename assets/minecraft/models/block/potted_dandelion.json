@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "yuushya:block/potted_dandelion",
-		"1": "yuushya:block/dandelion_potted",
-		"particle": "yuushya:block/potted_dandelion"
+		"0": "block/potted_dandelion",
+		"1": "block/dandelion_potted",
+		"particle": "block/potted_dandelion"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "yuushya:block/allium_potted",
-		"1": "yuushya:0extra_building_block/concrete/light_gray_concrete",
-		"particle": "yuushya:block/allium_potted"
+		"0": "block/allium_potted",
+		"1": "block/light_gray_concrete",
+		"particle": "block/allium_potted"
 	},
 	"elements": [
 		{

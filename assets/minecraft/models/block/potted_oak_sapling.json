@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"2": "yuushya:block/oak_leaves_tint",
-		"4": "yuushya:block/oak_leaves_flower_",
-		"5": "yuushya:0extra_building_block/concrete/white_concrete",
-		"particle": "yuushya:block/oak_leaves_tint_vine"
+		"2": "block/oak_leaves_tint",
+		"4": "block/oak_leaves_flower_",
+		"5": "block/white_concrete",
+		"particle": "block/oak_leaves_tint_vine"
 	},
 	"elements": [
 		{

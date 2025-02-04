@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"2": "yuushya:block/azure/red",
-		"3": "yuushya:block/fern5",
-		"5": "yuushya:0extra_building_block/concrete/black_concrete",
-		"particle": "yuushya:block/tulip_potted_"
+		"2": "block/azure/red",
+		"3": "block/fern5",
+		"5": "block/black_concrete",
+		"particle": "block/tulip_potted_"
 	},
 	"elements": [
 		{

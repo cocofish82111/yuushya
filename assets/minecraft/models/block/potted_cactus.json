@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"1": "yuushya:block/cactus_flower1",
-		"2": "yuushya:block/allium_potted",
-		"3": "yuushya:block/green_cactus",
-		"particle": "yuushya:block/green_cactus"
+		"1": "block/cactus/cactus_flower1",
+		"2": "block/allium_potted",
+		"3": "block/green_cactus",
+		"particle": "block/green_cactus"
 	},
 	"elements": [
 		{

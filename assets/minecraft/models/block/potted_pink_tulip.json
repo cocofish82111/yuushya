@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"2": "yuushya:block/azure/pink",
-		"3": "yuushya:block/fern5",
-		"5": "yuushya:0extra_building_block/stone_material",
-		"particle": "yuushya:block/tulip_potted_"
+		"2": "block/azure/pink",
+		"3": "block/fern5",
+		"5": "block/mod_res/stone_material",
+		"particle": "block/tulip_potted_"
 	},
 	"elements": [
 		{

@@ -6,7 +6,7 @@
     ],	
 	"textures": {
 		"0": "item/packages",
-		"1": "yuushya:0extra_building_block/packages_inside",
+		"1": "item/packages_inside",
 		"2": "entity/fish/pufferfish",
 		"particle": "item/packages"
 	},

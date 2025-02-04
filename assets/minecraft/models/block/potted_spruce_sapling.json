@@ -1,11 +1,11 @@
 {
 	"textures": {
-		"0": "yuushya:0extra_building_material/preview/basket",
-		"1": "yuushya:block/grass_block_tint",
-		"2": "yuushya:block/fern5",
-		"3": "yuushya:block/azure/blue",
-		"4": "yuushya:block/azure/daisy",
-		"particle": "yuushya:0extra_building_material/preview/basket"
+		"0": "block/mod_res/basket",
+		"1": "block/grass_block_tint",
+		"2": "block/fern5",
+		"3": "block/azure/blue",
+		"4": "block/azure/daisy",
+		"particle": "block/mod_res/basket"
 	},
 	"elements": [
 		{

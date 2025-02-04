@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "yuushya:block/wither_rose_potted",
-		"2": "yuushya:block/azure_bluet_potted",
-		"3": "yuushya:block/azure_bluet_potted_",
-		"particle": "yuushya:block/wither_rose_potted"
+		"0": "block/wither_rose_potted",
+		"2": "block/azure_bluet_potted",
+		"3": "block/azure_bluet_potted_",
+		"particle": "block/wither_rose_potted"
 	},
 	"elements": [
 		{

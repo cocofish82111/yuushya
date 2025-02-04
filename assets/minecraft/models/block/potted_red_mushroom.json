@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"1": "yuushya:block/crop/yucca",
-		"2": "yuushya:block/smooth_stone_",
-		"particle": "yuushya:block/wither_rose_potted"
+		"1": "block/crop/yucca",
+		"2": "block/smooth_stone_",
+		"particle": "block/wither_rose_potted"
 	},
 	"elements": [
 		{

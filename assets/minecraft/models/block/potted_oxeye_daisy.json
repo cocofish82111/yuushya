@@ -1,9 +1,9 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"2": "yuushya:block/grass/tint",
-		"3": "yuushya:block/smooth_sandstone",
-		"particle": "yuushya:block/lily_potted"
+		"2": "block/grass/tint",
+		"3": "block/smooth_sandstone",
+		"particle": "block/lily_potted"
 	},
 	"elements": [
 		{

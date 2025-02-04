@@ -2,10 +2,10 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "yuushya:block/lily_potted",
-		"4": "yuushya:0extra_building_block/stripped_dark_oak_planks",
-		"5": "yuushya:block/tall_orchid",
-		"particle": "yuushya:block/lily_potted"
+		"1": "block/lily_potted",
+		"4": "block/stripped_dark_oak_planks",
+		"5": "block/tall_orchid",
+		"particle": "block/lily_potted"
 	},
 	"elements": [
 		{

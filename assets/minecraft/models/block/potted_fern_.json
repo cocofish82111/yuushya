@@ -1,12 +1,12 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "yuushya:block/fern_potted",
-		"1": "yuushya:block/dark_oak_log_top",
-		"2": "yuushya:block/fern3",
-		"3": "yuushya:block/fern4",
-		"4": "yuushya:0extra_building_block/concrete/light_gray_concrete",
-		"particle": "yuushya:block/fern_potted"
+		"0": "block/fern_potted",
+		"1": "block/dark_oak_log_top",
+		"2": "block/fern3",
+		"3": "block/fern4",
+		"4": "block/light_gray_concrete",
+		"particle": "block/fern_potted"
 	},
 	"elements": [
 		{
