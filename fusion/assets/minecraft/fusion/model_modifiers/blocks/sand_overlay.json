@@ -1,0 +1,15 @@
+{
+   "targets": [
+      "minecraft:granite",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:stone",
+      "minecraft:gravel",
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:cobblestone"
+   ],
+   "append": [
+      "minecraft:block/sand_overlay"
+   ]
+}

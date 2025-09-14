@@ -1,0 +1,13 @@
+{
+   "targets": [
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:coarse_dirt",
+      "minecraft:sand",
+      "minecraft:stone",
+      "minecraft:mycelium"
+   ],
+   "append": [
+      "minecraft:block/podzol_overlay"
+   ]
+}

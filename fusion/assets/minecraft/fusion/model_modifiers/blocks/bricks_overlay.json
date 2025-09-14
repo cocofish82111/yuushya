@@ -1,0 +1,13 @@
+{
+   "targets": [
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:coarse_dirt",
+      "minecraft:stone",
+      "minecraft:mycelium",
+      "minecraft:light_gray_concrete"
+   ],
+   "append": [
+      "minecraft:block/bricks_overlay"
+   ]
+}

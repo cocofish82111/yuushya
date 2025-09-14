@@ -1,0 +1,25 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "block/block",
+  "textures": {
+     "podzol_overlay": "minecraft:block/podzol_overlay"
+  },
+  "connections": {
+     "podzol_overlay": [
+        {
+           "type": "match_block",
+           "block": "minecraft:podzol"
+        }
+     ]
+  },
+  "elements": [
+     {
+        "from": [ 0, 0, 0 ],
+        "to": [ 16, 16, 16 ],
+        "faces": {
+           "up":   { "texture": "#podzol_overlay", "cullface": "up" }
+        }
+     }
+  ]
+}

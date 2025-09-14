@@ -1,0 +1,25 @@
+{
+   "targets": [
+      "minecraft:wheat_seeds"
+   ],
+   "models": [
+      {
+         "model": "item/wheat_seeds_1",
+         "conditions": [
+            {
+               "type": "count",
+               "max": 1
+            }
+         ]
+      },
+      {
+         "model": "item/wheat_seeds_2",
+         "conditions": [
+            {
+               "type": "count",
+               "max": 2
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,16 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+     "all": "minecraft:block/sand_overlay"
+  },
+  "connections": {
+     "all": [
+        {
+           "type": "match_block",
+           "block": "minecraft:sand"
+        }
+     ]
+  }
+}
